@@ -13,7 +13,7 @@ Java web应用开发的基础服务框架.
 
 ### 配置使用
 * git clone git@github.com:Hinsteny/Hisoka.git
-* 编译安装到本地或者自己可以访问到的maven仓库
+* 编译安装到本地或者自己可以访问到的maven仓库 ('mvn clean compile install -Dskiptest=true')
 * 在所要引入的工程项目里引入即可
 
 
